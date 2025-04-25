@@ -1,0 +1,222 @@
+[
+  {
+    "id": "1",
+    "name": "Buddy",
+    "type": "puppy",
+    "breed": "Golden Retriever",
+    "age": 1,
+    "description": "Loves to cuddle and play fetch.",
+    "hunger": 0,
+    "happiness": 15,
+    "adoptedBy": "Nooraddeen Al-Haddad"
+  },
+  {
+    "id": "2",
+    "name": "Milo",
+    "type": "puppy",
+    "breed": "Beagle",
+    "age": 2,
+    "description": "Energetic and great with kids.",
+    "hunger": 1,
+    "happiness": 8,
+    "adoptedBy": "Nooraddeen Al-Haddad"
+  },
+  {
+    "id": "3",
+    "name": "Luna",
+    "type": "kitten",
+    "breed": "Siamese",
+    "age": 1,
+    "description": "Curious and loves chasing lasers.",
+    "hunger": 3,
+    "happiness": 9,
+    "adoptedBy": "Noor"
+  },
+  {
+    "id": "4",
+    "name": "Max",
+    "type": "puppy",
+    "breed": "Labrador",
+    "age": 3,
+    "description": "Friendly and food-motivated.",
+    "hunger": 6,
+    "happiness": 6,
+    "adoptedBy": null
+  },
+  {
+    "id": "5",
+    "name": "Chloe",
+    "type": "kitten",
+    "breed": "Ragdoll",
+    "age": 2,
+    "description": "Super fluffy and gentle.",
+    "hunger": 2,
+    "happiness": 9,
+    "adoptedBy": null
+  },
+  {
+    "id": "7",
+    "name": "Shadow",
+    "type": "kitten",
+    "breed": "Maine Coon",
+    "age": 3,
+    "description": "Loves to nap in cozy spots.",
+    "hunger": 4,
+    "happiness": 7,
+    "adoptedBy": null
+  },
+  {
+    "id": "8",
+    "name": "Daisy",
+    "type": "puppy",
+    "breed": "Cocker Spaniel",
+    "age": 1,
+    "description": "Happy tail always wagging.",
+    "hunger": 6,
+    "happiness": 8,
+    "adoptedBy": null
+  },
+  {
+    "id": "9",
+    "name": "Oliver",
+    "type": "kitten",
+    "breed": "British Shorthair",
+    "age": 2,
+    "description": "Chonky boy, loves naps.",
+    "hunger": 3,
+    "happiness": 6,
+    "adoptedBy": null
+  },
+  {
+    "id": "10",
+    "name": "Zoe",
+    "type": "kitten",
+    "breed": "Bengal",
+    "age": 1,
+    "description": "Wild spirit, loves to climb.",
+    "hunger": 4,
+    "happiness": 9,
+    "adoptedBy": null
+  },
+  {
+    "id": "11",
+    "name": "Charlie",
+    "type": "puppy",
+    "breed": "French Bulldog",
+    "age": 2,
+    "description": "Snorts while he runs. Adorable.",
+    "hunger": 0,
+    "happiness": 13,
+    "adoptedBy": "Noor"
+  },
+  {
+    "id": "12",
+    "name": "Misty",
+    "type": "kitten",
+    "breed": "Russian Blue",
+    "age": 3,
+    "description": "Shy but loves gentle pets.",
+    "hunger": 5,
+    "happiness": 6,
+    "adoptedBy": null
+  },
+  {
+    "id": "13",
+    "name": "Teddy",
+    "type": "puppy",
+    "breed": "Poodle",
+    "age": 2,
+    "description": "Fluffy, clever, and bouncy.",
+    "hunger": 3,
+    "happiness": 9,
+    "adoptedBy": null
+  },
+  {
+    "id": "14",
+    "name": "Cleo",
+    "type": "kitten",
+    "breed": "Turkish Angora",
+    "age": 1,
+    "description": "White cloud of chaos and love.",
+    "hunger": 4,
+    "happiness": 7,
+    "adoptedBy": null
+  },
+  {
+    "id": "15",
+    "name": "Finn",
+    "type": "puppy",
+    "breed": "Border Collie",
+    "age": 2,
+    "description": "Wants to herd literally everything.",
+    "hunger": 6,
+    "happiness": 6,
+    "adoptedBy": null
+  },
+  {
+    "id": "16",
+    "name": "Lily",
+    "type": "kitten",
+    "breed": "Scottish Fold",
+    "age": 2,
+    "description": "Folds ears, unfolds joy.",
+    "hunger": 2,
+    "happiness": 8,
+    "adoptedBy": null
+  },
+  {
+    "id": "17",
+    "name": "Oscar",
+    "type": "puppy",
+    "breed": "Shih Tzu",
+    "age": 3,
+    "description": "Small fluff, big attitude.",
+    "hunger": 4,
+    "happiness": 5,
+    "adoptedBy": null
+  },
+  {
+    "id": "18",
+    "name": "Simba",
+    "type": "kitten",
+    "breed": "Abyssinian",
+    "age": 1,
+    "description": "Explorer of forbidden places.",
+    "hunger": 2,
+    "happiness": 9,
+    "adoptedBy": "Noor"
+  },
+  {
+    "id": "19",
+    "name": "Coco",
+    "type": "puppy",
+    "breed": "Dachshund",
+    "age": 2,
+    "description": "Low rider with a big bark.",
+    "hunger": 3,
+    "happiness": 6,
+    "adoptedBy": null
+  },
+  {
+    "id": "20",
+    "name": "Nala",
+    "type": "kitten",
+    "breed": "Persian",
+    "age": 2,
+    "description": "Queen of the windowsill.",
+    "hunger": 4,
+    "happiness": 7,
+    "adoptedBy": null
+  },
+  {
+    "id": "d3eee3c1-b143-4a15-bb78-4ef4c6d11a8b",
+    "name": "Noor",
+    "type": "puppy",
+    "breed": "Arab",
+    "age": 20,
+    "description": "Cute, and creative",
+    "hunger": 5,
+    "happiness": 5,
+    "adoptedBy": null
+  }
+]

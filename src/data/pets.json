@@ -1,0 +1,46 @@
+[
+  {
+    "id": "1",
+    "name": "Max",
+    "type": "puppy",
+    "age": 1,
+    "breed": "Golden Retriever",
+    "adoptedBy": null,
+    "hunger": 0,
+    "happiness": 8,
+    "description": "A playful golden pup who loves belly rubs."
+  },
+  {
+    "id": "2",
+    "name": "Luna",
+    "type": "kitten",
+    "age": 0.5,
+    "breed": "Siamese",
+    "adoptedBy": "Noor",
+    "hunger": 4,
+    "happiness": 7,
+    "description": "A curious kitten with big blue eyes."
+  },
+  {
+    "id": "4",
+    "name": "Mittens",
+    "type": "kitten",
+    "age": 0.8,
+    "breed": "Maine Coon",
+    "adoptedBy": "Nooraddeen Al-Haddad",
+    "hunger": 3,
+    "happiness": 8,
+    "description": "Fluffy, sleepy, and always hungry."
+  },
+  {
+    "id": "461688c5-271e-4975-b9be-0e842daf8d2c",
+    "name": "afdsfasd",
+    "type": "puppy",
+    "breed": "adfsfasd",
+    "age": 1,
+    "description": "fdsafasd",
+    "hunger": 5,
+    "happiness": 5,
+    "adoptedBy": null
+  }
+]
