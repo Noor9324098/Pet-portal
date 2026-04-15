@@ -9,15 +9,20 @@
 		"preview": "vite preview",
 		"prepare": "svelte-kit sync || echo ''",
 		"check": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json",
-		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch"
+		"check:watch": "svelte-kit sync && svelte-check --tsconfig ./tsconfig.json --watch",
+		"predeploy": "npm run build",
+		"deploy": "gh-pages -d build"
 	},
 	"devDependencies": {
 		"@sveltejs/adapter-auto": "^4.0.0",
+		"@sveltejs/adapter-static": "^3.0.10",
+		"@sveltejs/adapter-vercel": "^6.3.3",
 		"@sveltejs/kit": "^2.16.0",
 		"@sveltejs/vite-plugin-svelte": "^5.0.0",
 		"@types/bcrypt": "^5.0.2",
 		"@types/node": "^22.14.0",
 		"autoprefixer": "^10.4.21",
+		"gh-pages": "^6.3.0",
 		"postcss": "^8.5.3",
 		"svelte": "^5.0.0",
 		"svelte-check": "^4.0.0",
@@ -27,7 +32,8 @@
 	},
 	"dependencies": {
 		"@tailwindcss/vite": "^4.1.4",
-		"bcrypt": "^5.1.1"
+		"bcrypt": "^5.1.1",
+		"deploy": "^1.1.0"
 	},
 	"description": "Start implementing features based on the assignment instructions.\\ You don't have to do any styling, focus on the functionalities.\\ Feel free to create new files for more organized code.",
 	"main": "svelte.config.js",

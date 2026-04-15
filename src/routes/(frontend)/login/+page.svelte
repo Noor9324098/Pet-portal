@@ -50,7 +50,7 @@
   
   <div class="split-screen">
 	<div class="illustration-pane">
-	  <img src="/src/data/login.png" alt="Welcome illustration" />
+	  <img src="/src/data/Login.png" alt="Welcome illustration" />
 	</div>
 	<div class="form-pane">
 	  <div class="login-box {loginState}">
