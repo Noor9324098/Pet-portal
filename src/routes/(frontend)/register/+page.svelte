@@ -53,7 +53,7 @@
 <div class="split-screen">
 	<!-- left: “new here” illustration -->
 	<div class="illustration-pane">
-		<img src="/src/data/Registration.png" alt="New here illustration" />
+		<img src="/static/pics/Registration.png" alt="New here illustration" />
 	</div>
 
 	<!-- right: registration form -->
