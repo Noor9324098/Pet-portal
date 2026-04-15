@@ -3,7 +3,7 @@ import fs from 'fs/promises';
 import path from 'path';
 import { randomUUID } from 'crypto';
 
-const petsPath = path.resolve('/static/data/pets.json');
+const petsPath = path.resolve('${base}/static/data/pets.json');
 
 async function readJson<T>(file: string): Promise<T[]> {
   try {
